@@ -1,5 +1,5 @@
 body{ 
-    background: rgb(233, 227, 227);
+    background: rgb(222, 215, 215);
 }
 #titulo1 { 
     text-align: center;
@@ -11,7 +11,7 @@ body{
 .p1 {
     text-align: justify;
     font-size: 20px;
-    color:white;
+    color:rgb(10, 10, 10);
 }
 
 .p2 {
