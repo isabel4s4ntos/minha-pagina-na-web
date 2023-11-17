@@ -20,7 +20,7 @@ body{
     color:black
 }
 
-#img {
+#img1 {
     display:block;
     margin:0 auto;
 }
@@ -51,7 +51,7 @@ header {
 }
 
 .principal {
-    background:white ;
+    background:rgb(222, 215, 215) ;
 }
 
 .beneficios {
